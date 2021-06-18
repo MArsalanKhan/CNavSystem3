@@ -2,7 +2,7 @@
  * CPersistentClass.cpp
  *
  *  Created on: Dec 7, 2015
- *      Author: abd sharaf
+ *      Author: Arsalan
  */
 
 #include "CPersistentClass.h"
