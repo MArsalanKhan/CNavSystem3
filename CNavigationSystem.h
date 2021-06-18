@@ -2,7 +2,7 @@
  * CNavigationSystem.h
  *
  *  Created on: 02.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CNAVIGATIONSYSTEM_H_
