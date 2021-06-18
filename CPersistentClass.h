@@ -2,7 +2,7 @@
  * CPersistentClass.h
  *
  *  Created on: Dec 7, 2015
- *      Author: abd sharaf
+ *      Author: Arsalan
  */
 
 #ifndef CPERSISTENTCLASS_H_
