@@ -3,7 +3,7 @@
  * CNavigationSystem.cpp
  *
  *  Created on: 02.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 using namespace std;
 #include <iostream>
