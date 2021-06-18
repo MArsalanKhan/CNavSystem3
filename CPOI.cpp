@@ -3,7 +3,7 @@
  * CPOI.cpp
  *
  *  Created on: 02.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 using namespace std;
 #include <iostream>
@@ -34,21 +34,21 @@ void CPOI:: print(int format)
 		switch(m_type)
 		{
 		case RESTURANT:
-			//cout<<"Point of interest is of type:"<<endl;
-			//cout<<"Resturant  "<<"and it is"<<m_description<<endl;
-			//cWaypoint::print(format);
+			cout<<"Point of interest is of type:"<<endl;
+			cout<<"Resturant  "<<"and it is"<<m_description<<endl;
+			cWaypoint::print(format);
 			break;
 
 		case UNIVERSITY:
-			//cout<<"Point of interest is of type:"<<endl;
-		    //cout<<"University"<<"and it is  "<<m_description<<endl;
-			//cWaypoint::print(format);
+			cout<<"Point of interest is of type:"<<endl;
+		        cout<<"University"<<"and it is  "<<m_description<<endl;
+			cWaypoint::print(format);
 			break;
 
 		case NONE:
-			//cout<<"Point of interest is of type:"<<endl;
-		    //cout<<"None"<<"and it is"<<m_description<<endl;
-		    //cWaypoint::print(format);
+			cout<<"Point of interest is of type:"<<endl;
+		        cout<<"None"<<"and it is"<<m_description<<endl;
+		        cWaypoint::print(format);
 		    break;
 
 
