@@ -2,7 +2,7 @@
  * cWpDatabase.h
  *
  *  Created on: 27.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CWPDATABASE_H_
