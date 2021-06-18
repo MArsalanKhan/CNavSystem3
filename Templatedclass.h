@@ -2,7 +2,7 @@
  * Templatedclass.h
  *
  *  Created on: 01.01.2016
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef TEMPLATEDCLASS_H_
