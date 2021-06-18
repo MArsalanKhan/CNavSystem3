@@ -2,7 +2,7 @@
  * CGPSSensor.h
  *
  *  Created on: 05.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CGPSSENSOR_H_
