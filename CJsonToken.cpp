@@ -2,7 +2,7 @@
  * CJsonToken.cpp
  *
  *  Created on: 10.12.2015
- *      Author: mnl
+ *      Author: Arsalan
  */
 
 #include "CJsonToken.h"
