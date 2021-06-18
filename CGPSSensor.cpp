@@ -2,7 +2,7 @@
  * CGPSSensor.cpp
  *
  *  Created on: 05.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 using namespace std;
