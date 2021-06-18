@@ -1,4 +1,4 @@
-// GIT-Labor
+// GIT-Labor   Author: Arsalan
 // main.h
 #include <iostream>
 #include <stdlib.h>
