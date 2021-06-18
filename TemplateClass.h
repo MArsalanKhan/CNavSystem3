@@ -2,7 +2,7 @@
  * TemplateClass.h
  *
  *  Created on: 26 Dec 2015
- *      Author: abd sharaf
+ *      Author: Arsalan
  */
 
 #ifndef TEMPLATECLASS_H_
