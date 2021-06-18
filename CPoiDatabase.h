@@ -2,7 +2,7 @@
  * CPoiDatabase.h
  *
  *  Created on: 02.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CPOIDATABASE_H_
