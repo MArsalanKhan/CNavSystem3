@@ -2,7 +2,7 @@
  * CPersistanceStorage.h
  *
  *  Created on: 07.12.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CPERSISTANCESTORAGE_H_
