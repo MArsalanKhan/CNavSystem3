@@ -2,7 +2,7 @@
  * cWpDatabase.cpp
  *
  *  Created on: 27.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #include "cWpDatabase.h"
