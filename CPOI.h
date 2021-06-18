@@ -2,7 +2,7 @@
  * CPOI.h
  *
  *  Created on: 06.11.2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CPOI_H_
