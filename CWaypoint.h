@@ -2,7 +2,7 @@
  * cWaypoint.h
  *
  *  Created on: Nov 7, 2015
- *      Author: DELL
+ *      Author: Arsalan
  */
 
 #ifndef CWAYPOINT_H_
