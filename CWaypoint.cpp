@@ -1,8 +1,8 @@
 /*
  * CWaypoint.cpp
  *
- *  Created on: .11.2015
- *      Author: DELL
+ *  Created on: 7.11.2015
+ *      Author: Arsalan
  */
 #include "cWaypoint.h"
 #include <iostream>
